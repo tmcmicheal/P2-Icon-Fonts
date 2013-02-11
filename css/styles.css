@@ -1,0 +1,183 @@
+.container {
+	text-align:center;
+	margin: 0 auto;
+}
+
+body {
+	background-image:url(../img/greenbg.png);
+	margin: 0 auto;
+}
+
+.holditall {
+	background-image:url(../img/broken_noise.png);
+	background-color:#222327;
+	padding: 2.5em 0em;
+	margin: 6em auto;
+}
+
+.glyph {
+	color:#222327;
+		font-size: 30px;
+		float: left;
+		text-align: center;
+		background: #EEECDD;
+		padding: .97em;
+		margin: .252em;
+		
+		outline:1px solid #EEECDD;
+	}
+	.glyph input {
+		width: 100%;
+		text-align: center;
+		font-family: consolas, monospace;
+	}
+	.glyph input, .mtm {
+		margin-top: .75em;
+	}
+	
+	
+.glyph:hover {
+	cursor: pointer;
+}
+	
+.bluewblack {
+	color:#73BDC8;
+	background-color:#222327;
+}
+
+.orangewwhite {
+	color:#D54918;
+	background-color:#EEECDD;
+}
+
+.whitewblack {
+	color:#EEECDD;
+	background-color:#222327;
+}
+
+.blackwwhite {
+	color:#222327;
+	background-color:#EEECDD;
+}
+
+
+
+
+.biggerversion {
+	font-size:60px;
+}
+
+#halloweeen {
+	color:#D54918;
+		font-size:7.535em;
+	font-family: 'double_featureregular';
+	color:#D54918;
+	line-height:90px;
+	margin-bottom:.3em;
+	float:left;
+}
+
+#iconfontname {
+	color:#D54918;
+		font-size:8.5em;
+	font-family: 'double_featureregular';
+	color:#73BDC8;
+	line-height:90px;
+	margin-bottom:.3em;
+	float:left;
+}
+
+#color1 {
+	height:2em;
+	width:2em;
+	background-color:#222327;
+	float:right;
+	margin:.25em;
+	border:.5em solid #EEECDD;
+	margin-top:3.5em;
+	outline:1px solid #EEECDD;
+	cursor: pointer;
+}
+
+#color2 {
+	height:2em;
+	width:2em;
+	background-color:#EEECDD;
+	float:right;
+	margin:.25em;
+	border:.5em solid #222327;
+	margin-top:3.5em;
+		outline:1px solid #EEECDD;
+		cursor: pointer;
+	}
+
+#color3 {
+	height:2em;
+	width:2em;
+	background-color:#D54918;
+	float:right;
+	margin:.25em;
+	border:.5em solid #EEECDD;
+	margin-top:3.5em;
+		outline:1px solid #EEECDD;
+		cursor: pointer;
+}
+
+#color4 {
+	height:2em;
+	width:2em;
+	background-color:#73BDC8;
+	float:right;
+	margin:.25em;
+	border:.5em solid #222327;
+	margin-top:3.5em;
+	outline:1px solid #EEECDD;
+	cursor: pointer;
+}
+
+
+
+@font-face {
+    font-family: 'double_featureregular';
+    src: url('../fonts/doublefeature20-webfont.eot');
+    src: url('../fonts/doublefeature20-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/doublefeature20-webfont.woff') format('woff'),
+         url('../fonts/doublefeature20-webfont.ttf') format('truetype'),
+         url('../fonts/doublefeature20-webfont.svg#double_featureregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'DeutschGothicNormal';
+    src: url('../fonts/Deutsch-webfont.eot');
+    src: url('../fonts/Deutsch-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Deutsch-webfont.woff') format('woff'),
+         url('../fonts/Deutsch-webfont.ttf') format('truetype'),
+         url('../fonts/Deutsch-webfont.svg#DeutschGothicNormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.glyph23 {
+	color:yellow;
+	float:left;
+	font-siZe:72px;
+	margin-right:-10px;
+}
+
+.glyph24 {
+	color:yellow;
+	float:left;
+	font-siZe:72px;
+}
+
+.glyph25 {
+	color:yellow;
+	float:left;
+	font-siZe:72px;
+}
